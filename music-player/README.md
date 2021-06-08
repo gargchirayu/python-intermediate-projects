@@ -1,0 +1,3 @@
+# Minimal Utility Music Player
+This is another general application that I wrote as part of my series of Python programs, under my #100daysofcode challenge. The implementation is a very basic music player that selects a directory of music files and allows the user to listen to them. Basic functionalities like play, pause, stop and restart are implemented. The application is GUI based, though encounters only minimal and simplistic graphics. Currently, as part of my practice (for python coding), these functions seemed good enough to understand various modules in python- tkinter and pygame- and implementation of OOPs. 
+As a future aspect, I would try to add functionality to seek the audio file, skip/rewind, and stream from the internet.
